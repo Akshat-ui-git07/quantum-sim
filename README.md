@@ -1,3 +1,4 @@
+![QuantumSim Banner](github_banner_quantumsim.svg)
 ⚛️ QuantumSim — Quantum Circuit Simulator
 Exploring quantum speedups through hands-on implementation of landmark quantum algorithms.
 
